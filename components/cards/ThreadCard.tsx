@@ -113,8 +113,6 @@ function ThreadCard({
             </div>
           </div>
         </div>
-
-       
       </div>
 
       {!isComment && comments.length > 0 && (
@@ -145,7 +143,7 @@ function ThreadCard({
         >
           <p className='text-subtle-medium text-gray-1'>
             {formatDateString(createdAt)}
-            {community && ` - ${community.name} Community`}
+            - {community.name} Community
           </p>
 
           <Image
