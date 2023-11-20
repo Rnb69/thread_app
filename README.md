@@ -1,34 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+to run the app 
+type in console : npm run dev
+in browser : http://localhost:3000/
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Login using clerk](https://github.com/Rnb69/thread_app/assets/59911586/6357ad16-097e-43be-b933-712fd3ef6cc5)
+![Homepage](https://github.com/Rnb69/thread_app/assets/59911586/0aa04f43-a6c4-463e-b2d1-db3953a76fbb)
+![Profile](https://github.com/Rnb69/thread_app/assets/59911586/99e95cda-6281-4163-b241-95f2ebaa9ee1)
+![Search](https://github.com/Rnb69/thread_app/assets/59911586/8982a00d-72f1-44ec-bcfa-b9d7f62ecb1e)
+![Create post](https://github.com/Rnb69/thread_app/assets/59911586/f0552e86-8e2d-407b-ae17-a46c77f609fe)
+![communities](https://github.com/Rnb69/thread_app/assets/59911586/fba8b6aa-f809-4302-b875-ba92ee53489d)
+![organisations](https://github.com/Rnb69/thread_app/assets/59911586/2c40df2a-7d8d-4788-8098-e8e32080d5c4)
